@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logobox {
+    -webkit-border-radius: 166px 83px 125px 67px; /*Safari, Chrome*/
+    -moz-border-radius: 166px 83px 125px 67px; /*Firefox*/
+    border-radius: 166px 83px 125px 67px;
+  }
